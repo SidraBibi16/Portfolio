@@ -11,7 +11,7 @@ const projects = [
     title: "Helmet Detection System",
     description:
       "An AI web app that detects safety helmets in images or webcam input, ensuring workplace safety in real time.",
-    link: "https://github.com/SidraBibi16",
+    link: "https://github.com/SidraBibi16/Halmet-detection-system",
   },
   {
     title: "Color Switcher App",
