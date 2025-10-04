@@ -14,7 +14,7 @@ function About() {
           I’m a <span className="font-semibold text-indigo-600">dedicated</span> and{" "}
           <span className="font-semibold text-indigo-600">detail-oriented</span>{" "}
           full-stack developer with hands-on experience in building dynamic and responsive web applications using the{" "}
-          <span className="font-semibold text-indigo-600">MERN stack</span> (MongoDB, Express, React, Node.js).
+          <span className="font-semibold text-indigo-600">Full Stack/MERN stack</span> (MongoDB, Express, React, Node.js & MySQL).
           I enjoy turning complex problems into simple, beautiful solutions and
           continuously learning new technologies to improve my skills.
         </p>
