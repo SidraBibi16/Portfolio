@@ -12,6 +12,11 @@ function Navbar() {
             About
           </a>
         </li>
+         <li>
+          <a href="#about" className="hover:text-indigo-400 transition-colors duration-200">
+            Skills
+          </a>
+        </li>
         <li>
           <a href="#projects" className="hover:text-indigo-400 transition-colors duration-200">
             Projects
