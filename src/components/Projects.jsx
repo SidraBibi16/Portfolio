@@ -2,10 +2,10 @@ import React from "react";
 
 const projects = [
   {
-    title: "Teacher-Student Dashboard",
+    title: "AI Image Generator Web App",
     description:
-      "A MERN stack dashboard where teachers can log in, manage students, and reset passwords.",
-    link: "https://github.com/SidraBibi16",
+      "A MERN stack AI image generator that allows users to sign up, generate images using text prompts, and manage usage through a credit balance system.",
+    link: "https://ai-image-generator-git-main-sidrabibi16s-projects.vercel.app",
   },
   {
     title: "Helmet Detection System",
